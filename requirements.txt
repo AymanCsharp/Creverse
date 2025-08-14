@@ -1,0 +1,15 @@
+# Creverse Requirements
+# This tool uses only built-in Python libraries
+
+# Python 3.6+ required
+# No external packages needed
+
+# Built-in libraries used:
+# - socket
+# - threading
+# - time
+# - os
+# - sys
+# - json
+# - datetime
+# - subprocess
