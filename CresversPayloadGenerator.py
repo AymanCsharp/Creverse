@@ -34,9 +34,9 @@ class PayloadGenerator:
 ╔══════════════════════════════════════════════════════════════╗
 ║                        CREVERSE                              ║
 ║                                                              ║
-║  Advanced Payload Generator with Reverse Shell               ║
+║           Payload Generator with Reverse Shell               ║
 ║                                                              ║
-║  ️  For Educational and Ethical Testing Purposes Only       ║
+║  ️  For Educational and Ethical Testing Purposes Only         ║
 ║                                                              ║
 ║   Author: AymanCsharp                                        ║
 ║   Version: 2.0                                               ║
@@ -457,3 +457,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
